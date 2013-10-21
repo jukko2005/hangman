@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<snippets>
+		<snippet id="main" url="snippets/snippets.xml" />
+	</snippets>
+	
+	<game>
+		<words>
+			<word>GUESS_WORD_1</word>
+			<word>GUESS_WORD_2</word>
+			<word>GUESS_WORD_3</word>
+			<word>GUESS_WORD_4</word>
+			<word>GUESS_WORD_5</word>
+		</words>
+	</game>
+</config>

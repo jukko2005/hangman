@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+	<RULES><![CDATA[As the game starts choose one letter of the alphabet. Your goal is to guess the word. With each incorrect letter an element of the gallows appears. When the gallows are complete - you lose. If you guess the letter, that latter will be opened.]]></RULES>
+	<STATUS><![CDATA[Won: $$won$$  Lost: $$lost$$]]></STATUS>
+	<GUESS_WORD_1><![CDATA[one]]></GUESS_WORD_1>
+	<GUESS_WORD_2><![CDATA[two]]></GUESS_WORD_2>
+	<GUESS_WORD_3><![CDATA[three]]></GUESS_WORD_3>
+	<GUESS_WORD_4><![CDATA[twenty]]></GUESS_WORD_4>
+	<GUESS_WORD_5><![CDATA[madam]]></GUESS_WORD_5>
+	
+	<SUCCESS_MESSAGE><![CDATA[Congratulations
+You guessed the word]]></SUCCESS_MESSAGE>
+	<FAIL_MESSAGE><![CDATA[Failed
+You are dead]]></FAIL_MESSAGE>
+</snippets>
